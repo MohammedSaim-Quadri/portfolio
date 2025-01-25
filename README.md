@@ -1,5 +1,4 @@
 # Mohammed Saim Ahmed Quadri
-### Artificial Intelligence Enthusiast | Software Developer | Problem Solver  
 Passionate about leveraging AI and software engineering to create innovative solutions that enhance efficiency and user experience. Experienced in building AI-powered tools, designing secure systems, and contributing to impactful projects across domains like cybersecurity and automation.
 
 ## Education
