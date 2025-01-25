@@ -1,13 +1,13 @@
 # Mohammed Saim Ahmed Quadri
-Passionate about leveraging AI and software engineering to create innovative solutions that enhance efficiency and user experience. Experienced in building AI-powered tools, designing secure systems, and contributing to impactful projects across domains like cybersecurity and automation.
+Passionate about leveraging AI and software engineering to create innovative solutions that enhance efficiency and user experience. Experienced in building AI-powered tools, designing secure systems, and contributing to impactful projects across various domains like cybersecurity and automation.
 
 ## Education
 - **Bachelor of Technology in Computer Science with Honors in Artificial Intelligence**  
   MGM University JNEC, CS Nagar (Aurangabad), Maharashtra  
-  GPA: 8.93 / 10 (_2020 – 2024_)  
+  GPA: 8.93 / 10   
 - **12th Grade (Senior Year)**  
   International Indian Public School, Riyadh, Saudi Arabia  
-  GPA: 9.2 / 10 (_2019 – 2020_)
+  GPA: 9.2 / 10
 
 ---
 
