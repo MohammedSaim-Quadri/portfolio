@@ -83,6 +83,7 @@ _ApTSi | Remote (Burlington, MA, USA) | Feb 2023 – Dec 2023_
 - **Complete ML, NLP Bootcamp MLOps and Deployment**  
   _Instructor: Krish Naik | Udemy | Completion: March 2025_
   Comprehensive hands-on experience in deploying AI models and building robust pipelines.
+  [View Certificate](ude.my/UC-3cfd83f3-7b4b-46a2-9f83-2d40da94f3b8)
 
 - **DeepLearning.AI TensorFlow Developer**  
   _Instructor: Laurence Moroney | Coursera | Completion: May 2024_
