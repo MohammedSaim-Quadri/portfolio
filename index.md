@@ -1,17 +1,27 @@
 # Mohammed Saim Ahmed Quadri
-Passionate about leveraging AI and software engineering to create innovative solutions that enhance efficiency and user experience. Experienced in building AI-powered tools, designing secure systems, and contributing to impactful projects across various domains like cybersecurity and automation.
+🚀 _MS CS @ NJIT | AI, DataScience & MLOps Enthusiast | Building Secure, Scalable AI Systems_
 
-## Education
-- **Bachelor of Technology in Computer Science with Honors in Artificial Intelligence**  
-  MGM University JNEC, CS Nagar (Aurangabad), Maharashtra  
-  GPA: 8.93 / 10   
+Driven to build AI-powered solutions and scalable software systems. Experienced in applying AI/ML techniques, MLOps practices, and secure architecture principles across cybersecurity, automation, and cloud-based deployments.
+
+---
+
+## 🎓 Education
+
+- **Master of Science in Computer Science**
+  New Jersey Institute of Technology (NJIT), Newark, NJ, USA
+  Expected Graduation: 2027
+  
+- **Bachelor of Technology in Computer Science with Honors in Artificial Intelligence**
+  MGM University JNEC, CS Nagar (Aurangabad), Maharashtra
+  GPA: 8.93 / 10 (2020 – 2024)
+  
 - **12th Grade (Senior Year)**  
   International Indian Public School, Riyadh, Saudi Arabia  
   GPA: 9.2 / 10
 
 ---
 
-## Professional Experience
+##💼Professional Experience
 
 **Software Developer/Research Intern**  
 _ApTSi | Remote (Burlington, MA, USA) | January 2024 – July 2024_
@@ -28,24 +38,28 @@ _ApTSi | Remote (Burlington, MA, USA) | Feb 2023 – Dec 2023_
 
 ---
 
-## Projects
+## 🧠Projects
 
 ### **Intrusion Detection System Using AI**  
 **Technologies:** Python, TensorFlow, XGBoost, Docker  
-- Achieved **97.9% ROC AUC** on the CICIDS2018 dataset, significantly improving intrusion detection accuracy.  
-- Integrated **Optuna-based hyperparameter tuning** to optimize the neural network's architecture.  
-- Containerized the project using Docker for scalability and seamless deployment.  
+- Developed an AI-powered IDS achieving 85.9% accuracy and 97.9% ROC AUC on the CICIDS2018 dataset.
+- Optimized model performance using Optuna hyperparameter tuning and Dockerized the solution for deployment. 
 - Exploring integration of XGBoost with neural networks for hybrid modeling.  
 [GitHub Repository](https://github.com/MohammedSaim-Quadri/Intrusion_Detection-System)
 
 ---
 
-### **LLM-Based Hiring Assistant**  
-**Technologies:** Streamlit, Python  
-- Designed an **intelligent Streamlit-based application** for recruitment agencies.  
-- Automated the **generation of tailored technical interview questions** using open-source models.  
-- Incorporated a secure admin dashboard with candidate data storage.
-[GitHub Repository](https://github.com/MohammedSaim-Quadri/HiringAssistant)
+### **MLOps Pipeline for Phishing Detection**
+**Technologies:** Python, scikit-learn, FastAPI, Docker, AWS
+- Built a full MLOps pipeline featuring model training, batch inference with FastAPI, and cloud storage      using AWS S3.
+- Implemented CI/CD workflows (GitHub Actions), containerization with Docker, monitoring, and logging.
+[GitHub Repository](https://github.com/MohammedSaim-Quadri/networksecurity)
+---
+
+### **Neural Network from Scratch (NNFS-Inspired)**
+**Technologies:** Python, NumPy, Matplotlib
+- Built an entire neural network from scratch, including forward and backward propagation, activation        functions, and optimizers.
+- Achieved 97.3% accuracy on the spiral dataset with a modular deep learning pipeline.
 
 ---
 
@@ -65,9 +79,9 @@ _ApTSi | Remote (Burlington, MA, USA) | Feb 2023 – Dec 2023_
 
 ---
 
-## Certifications
+## 📜Certifications
 - **Complete ML, NLP Bootcamp MLOps and Deployment**  
-  _Instructor: Krish Naik | Udemy | Expected Completion: February 2025_
+  _Instructor: Krish Naik | Udemy | Completion: March 2025_
   Comprehensive hands-on experience in deploying AI models and building robust pipelines.
 
 - **DeepLearning.AI TensorFlow Developer**  
@@ -77,15 +91,14 @@ _ApTSi | Remote (Burlington, MA, USA) | Feb 2023 – Dec 2023_
 
 ---
 
-## Technical Skills:
-- **Languages & Tools**: Python, SQL, Git, Docker, Postman  
-- **Frameworks & Libraries**: TensorFlow, OpenCV, Pandas, NumPy, scikit-learn, Flask  
-- **AI/ML Expertise**: Neural Networks, Transformers, Hyperparameter Tuning, Classification, Clustering  
-- **Cloud/DevOps**: Kubernetes (basic)  
-- **Databases**: PostgreSQL, MySQL  
-- **Specialized Skills**: Zero Trust Architecture, Advanced NLP (OCR, Speech-to-Text)
+## 🛠️Technical Skills:
+- **Languages:** Python, Java, SQL
+- **Frameworks & Libraries:** TensorFlow, scikit-learn, OpenCV, Hugging Face, Flask, Pandas, NumPy, Matplotlib, Seaborn, XGBoost
+- **AI/ML Expertise:** CNNs, Transformers, Reinforcement Learning, Supervised & Unsupervised Learning, Hyperparameter Tuning
+- **Cloud/DevOps:** Docker, Kubernetes, AWS (S3, EC2, Beanstalk, CodePipeline), Git, CI/CD, MLflow (Model Deployment & Monitoring)
+- **Databases:** PostgreSQL, MySQL
 
-## Soft Skills:
+## 💡Soft Skills:
 - Team Leadership & Collaboration  
 - Problem Solving & Critical Thinking  
 - Effective Communication & Presentation  
@@ -93,8 +106,9 @@ _ApTSi | Remote (Burlington, MA, USA) | Feb 2023 – Dec 2023_
 
 ---
 
-## Contact
-- **Email:** [mohammedsaimquadri@gmail.com](mailto:mohammedsaimquadri@gmail.com)  
-- **Phone:** +91 8788526138  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/msaquadri/)  
-- **GitHub:** [Your GitHub Profile](https://github.com/MohammedSaim-Quadri)
+## 📬Contact
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohammedsaimquadri@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/msaquadri/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/MohammedSaim-Quadri)
+📞 +91 8788526138
+
