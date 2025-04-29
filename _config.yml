@@ -1,4 +1,17 @@
-# title: Mohammed Saim Ahmed Quadri
+title: Mohammed Saim Ahmed Quadri
 logo: /assets/img/headshot.png
-description: AI & ML Developer | Machine Learning and Data Science | Building Intelligent Solutions
+description: MS CS @ NJIT | AI & MLOps Enthusiast | Building Secure, Scalable AI Systems
 theme: jekyll-theme-minimal
+
+# Optional Extras for Better Look
+show_downloads: false
+google_analytics: # (Add your tracking ID here if you want later)
+
+# Social links
+github_username: MohammedSaim-Quadri
+linkedin_username: msaquadri
+email: mohammedsaimquadri@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
