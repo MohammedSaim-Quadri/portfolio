@@ -51,15 +51,17 @@ _ApTSi | Remote (Burlington, MA, USA) | Feb 2023 – Dec 2023_
 
 ### **MLOps Pipeline for Phishing Detection**
 **Technologies:** Python, scikit-learn, FastAPI, Docker, AWS
-- Built a full MLOps pipeline featuring model training, batch inference with FastAPI, and cloud storage      using AWS S3.
+- Built a full MLOps pipeline featuring model training, batch inference with FastAPI, and cloud storage using AWS S3.
 - Implemented CI/CD workflows (GitHub Actions), containerization with Docker, monitoring, and logging.
 [GitHub Repository](https://github.com/MohammedSaim-Quadri/networksecurity)
+
 ---
 
 ### **Neural Network from Scratch (NNFS-Inspired)**
-**Technologies:** Python, NumPy, Matplotlib
-- Built an entire neural network from scratch, including forward and backward propagation, activation        functions, and optimizers.
+**Technologies:** Python, NumPy
+- Built an entire neural network from scratch, including forward and backward propagation, activation functions, and optimizers.
 - Achieved 97.3% accuracy on the spiral dataset with a modular deep learning pipeline.
+[GitHub Repository](https://github.com/MohammedSaim-Quadri/NN_FromScratch)
 
 ---
 
