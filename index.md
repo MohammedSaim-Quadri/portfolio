@@ -21,7 +21,7 @@ Driven to build AI-powered solutions and scalable software systems. Experienced 
 
 ---
 
-##💼Professional Experience
+## 💼Professional Experience
 
 **Software Developer/Research Intern**  
 _ApTSi | Remote (Burlington, MA, USA) | January 2024 – July 2024_
